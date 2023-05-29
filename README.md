@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Success John</h1>
 <h3 align="center">A dynamic and result-oriented software engineer, dedicated to building perfomant, scalable, secure and innovative software solutions</h3>
 
-- 💬 Ask me about **nodejs, express, mongodb, C#, ASP.NET**
+- 💬 Ask me about ** C#, ASP.NET Core**
 
 - 📫 How to reach me **successojohn@gmail.com**
 
